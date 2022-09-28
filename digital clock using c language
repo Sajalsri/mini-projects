@@ -28,7 +28,7 @@ int main()
 		m=0;
 		}
 		h=0;
-        go to start;
+        goto start;
 		getch();
 		return 0;
 }
